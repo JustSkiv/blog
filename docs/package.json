@@ -13,6 +13,9 @@
     "build": "vuepress build src"
   },
   "license": "MIT",
+  "dependencies": {
+    "vuepress-theme-justskiv": "*"
+  },
   "devDependencies": {
     "vuepress": "^1.5.3",
     "vuepress-theme-justskiv": "file:../../../vuepress-theme-justskiv",
