@@ -1,11 +1,11 @@
 ---
-title: My posts main page
+title: Test
 date: 2021-02-23
 category: test
 excludeRelatedPost: true
 tags:
+- first post
 - testing
 ---
-## My posts main page
 
-Bla bla some posts
+asddas
