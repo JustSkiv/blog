@@ -9,20 +9,12 @@ module.exports = {
   // subNav: [],
   nav: [
     {
-      text: 'Guide',
-      link: '/guide/',
-    },
-    {
-      text: 'Posts',
-      link: '/_post/',
-    },
-    {
-      text: 'Config',
-      link: '/config/'
+      text: 'Обо мне',
+      link: '/about/'
     }
   ],
   sidebar: {
-    '/guide/': [
+    /*'/guide/': [
       {
         title: 'Guide',
         collapsable: false,
@@ -31,17 +23,7 @@ module.exports = {
           'using-vue',
         ]
       }
-    ],
-    '/_post/': [
-      {
-        title: 'Posts',
-        collapsable: false,
-        children: [
-          '',
-          'first-post',
-        ]
-      }
-    ],
+    ],*/
   },
   social: [
     {

@@ -1,6 +1,6 @@
 module.exports = {
-  title: "JustSkiv's blog",
-  description: "some description",
+  title: "JustSkiv",
+  description: "Блог о разработке и технологиях",
   // port: 8080
   markdown: {
     lineNumbers: true,
