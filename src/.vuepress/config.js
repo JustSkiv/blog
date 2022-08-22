@@ -28,6 +28,14 @@ module.exports = {
     ['noscript', {}, `
         <div><img src="https://mc.yandex.ru/watch/82930849" style="position:absolute; left:-9999px;" alt="" /></div>
     `],
+
+    //remark42
+    ['script', {}, `var remark_config = {
+        host: 'https://remark42.tuzov.su',
+        site_id: 'tuzov-blog',
+        theme: 'dark',
+      }`],
+    ['script', {defer: true, src: 'https://remark42.tuzov.su/web/embed.js'}, ``],
   ],
 
   // wordPerminute: {cn: 300, en: 160},
