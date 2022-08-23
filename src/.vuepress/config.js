@@ -1,5 +1,5 @@
 module.exports = {
-  title: "JustSkiv",
+  title: "Николай Тузов",
   description: "Блог о разработке и технологиях",
   // port: 8080
   markdown: {
