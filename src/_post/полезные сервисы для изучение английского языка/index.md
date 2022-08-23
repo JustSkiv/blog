@@ -1,7 +1,7 @@
 ---
 title: Полезные сервисы для изучения английского языка
 date: 2016-09-18
-category: test
+category: other
 excludeRelatedPost: true
 tags:
 - Английский язык

@@ -1,7 +1,7 @@
 ---
 title: Удалённая отладка Golang
 date: 2018-08-03
-category: test
+category: development
 excludeRelatedPost: true
 tags:
 - Golang
