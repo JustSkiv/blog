@@ -15,6 +15,7 @@ module.exports = {
 
   theme: 'vuepress-theme-justskiv',
 
+
   head: [
     ['meta', {name: 'theme-color', content: '#3eaf7c'}],
     ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
@@ -90,10 +91,10 @@ module.exports = {
         }
       ],
       sitemap: {
-        hostname: 'http://blog.tuzov.su/'
+        hostname: 'https://tuzov.su/'
       },
       feed: {
-        canonical_base: 'http://blog.tuzov.su/',
+        canonical_base: 'https://tuzov.su/',
       },
       // comment: {
       //   service: 'vssue',
